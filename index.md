@@ -6,3 +6,7 @@
 var myFloat = 1.02836;
 console.log(myFloat);
 ```
+
+- [ ] Eat
+- [ ] Sleep
+- [ ] Watch TV
